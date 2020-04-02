@@ -40,3 +40,7 @@ As we move up the higher grade, we see a rise in payment of employees. So the ta
 Below pic clearly depicts that most number of salaries are offerred to engineering and business employees.
 
 ![](Images/major.png)
+
+As we can see that, oil and finance industry employees have almost the same payment. 
+
+![](Images/industry.png)
