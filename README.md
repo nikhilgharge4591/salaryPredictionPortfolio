@@ -32,3 +32,7 @@ This graph depicts that as yearsOfExperince increases our salaries increases. Ba
 As we can see as position increases salary tends to increase. So there is an positive correlation between salary and jobType.
 
 ![](Images/jobType.png)
+
+As we move up the higher grade, we see a rise in payment of employees. So the target variable salary is positive correlated with degree.
+
+![](Images/degree.png)
