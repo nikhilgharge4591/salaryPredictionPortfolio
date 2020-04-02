@@ -20,6 +20,9 @@ Salary Prediction Project (Python)
   Exploratory Data analysis was performed on the dataset in-order to identify the relationship between the attributes and target variable. As a result, we found out that yearsExperience and salary show a positive correlation whereas milesFromMetropolis show negative correlation with salary. The correlation matrix is as follows:
    
 ![](Images/Correlation_Image.png)
-  
+ 
+This shows a negative correlation between salary and milesFromMetropolis. As miles tend to increase the salaries get decreased.
+
+![](Images/yearsExperience.png)
  
 
