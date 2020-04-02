@@ -25,4 +25,6 @@ This shows a negative correlation between salary and milesFromMetropolis. As mil
 
 ![](Images/yearsExperience.png)
  
+This graph depicts that as yearsOfExperince increases our salaries increases. Basically it depicts an positive correlation between yearsExperience and salary.
 
+![](Images/milesFromMetropolis.png)
