@@ -28,3 +28,7 @@ This shows a negative correlation between salary and milesFromMetropolis. As mil
 This graph depicts that as yearsOfExperince increases our salaries increases. Basically it depicts an positive correlation between yearsExperience and salary.
 
 ![](Images/milesFromMetropolis.png)
+
+As we can see as position increases salary tends to increase. So there is an positive correlation between salary and jobType.
+
+![](Images/jobType.png)
