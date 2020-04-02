@@ -36,3 +36,7 @@ As we can see as position increases salary tends to increase. So there is an pos
 As we move up the higher grade, we see a rise in payment of employees. So the target variable salary is positive correlated with degree.
 
 ![](Images/degree.png)
+
+Below pic clearly depicts that most number of salaries are offerred to engineering and business employees.
+
+![](Images/major.png)
