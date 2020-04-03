@@ -19,31 +19,32 @@ Salary Prediction Project (Python)
 
   Exploratory Data analysis was performed on the dataset in-order to identify the relationship between the attributes and target variable. As a result, we found out that yearsExperience and salary show a positive correlation whereas milesFromMetropolis show negative correlation with salary. The correlation matrix is as follows:
    
-![](Images/Corr_matrix.png)
+<img src="Images/Corr_matrix.png" width="300" height="300">
  
 This shows a negative correlation between salary and milesFromMetropolis. As miles tend to increase the salaries get decreased.
 
-![](Images/yearsExperience.png)
+<img src="Images/yearsExperience.png" width="300" height="300">
  
 This graph depicts that as yearsOfExperince increases our salaries increases. Basically it depicts an positive correlation between yearsExperience and salary.
 
-![](Images/milesFromMetropolis.png)
+<img src="Images/milesFromMetropolis.png" width="300" height="300">
 
 As we can see as position increases salary tends to increase. So there is an positive correlation between salary and jobType.
 
-![](Images/jobType.png)
+<img src="Images/jobType.png" width="300" height="300">
 
 As we move up the higher grade, we see a rise in payment of employees. So the target variable salary is positive correlated with degree.
 
-![](Images/degree.png)
+<img src="Images/degree.png" width="300" height="300">
 
 Below pic clearly depicts that most number of salaries are offerred to engineering and business employees.
 
-![](Images/major.png)
+<img src="Images/major.png" width="300" height="300">
 
 As we can see that, oil and finance industry employees have almost the same payment. 
 
-![](Images/industry.png)
+<img src="Images/industry.png" width="300" height="300">
+
 
 # Modeling
 
@@ -59,7 +60,7 @@ As we can see that, oil and finance industry employees have almost the same paym
 
  Being an ensemble method Random Forest gives an opportunity to inspect feature importances and get a sense of which of the variables have the most effect on the model. Using ‘feature importances’ method I derived this information, stored in a separate data frame and built a plot visualizing importance of each variable in a descending order.
 
-<img src="Images/Feature Importance.png" width="100" height="100">
+<img src="Images/Feature Importance.png" width="300" height="300">
 
  As we can clearly see from the figure, yearsExperience is the most significant feature for predicting the salary of employees followed by jobType_JANITOR and milesFromMetropolis. On the other side we have degree and major features which are of least important. Feature importance does play an important role in identifing key features in the dataset which can have a major impact for model prediction.
  
