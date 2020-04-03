@@ -44,3 +44,13 @@ Below pic clearly depicts that most number of salaries are offerred to engineeri
 As we can see that, oil and finance industry employees have almost the same payment. 
 
 ![](Images/industry.png)
+
+# Modeling
+
+  After performing exploratory data analysis, we identified the hidden patterns in the dataset. Based on those insights respective models were taken into consideration for salary prediction. Models taken into consideration were Linear Regression (LR), Random Forest (RF) and Gradient Boosting algorithm (GB). 
+   In-order to carry out the efficacy of model, the evaluation Metric MSE was taken into consideration. Random Forest had the lowest MSE value of 366.6 and hence was considered as an production model.
+
+# Feature Importance
+
+![](Images/Feature Importance.png)
+
