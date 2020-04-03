@@ -59,7 +59,7 @@ As we can see that, oil and finance industry employees have almost the same paym
 
  Being an ensemble method Random Forest gives an opportunity to inspect feature importances and get a sense of which of the variables have the most effect on the model. Using ‘feature importances’ method I derived this information, stored in a separate data frame and built a plot visualizing importance of each variable in a descending order.
 
-![](Images/Feature Importance.png)
+<img src="Images/Feature Importance.png" width="100" height="100">
 
  As we can clearly see from the figure, yearsExperience is the most significant feature for predicting the salary of employees followed by jobType_JANITOR and milesFromMetropolis. On the other side we have degree and major features which are of least important. Feature importance does play an important role in identifing key features in the dataset which can have a major impact for model prediction.
  
