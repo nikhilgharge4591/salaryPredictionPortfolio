@@ -52,5 +52,5 @@ As we can see that, oil and finance industry employees have almost the same paym
 
 # Feature Importance
 
-![](Images/FeatureImportance.png)
+![](Images/Feature Importance.png)
 
